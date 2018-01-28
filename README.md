@@ -1,8 +1,8 @@
 # trivia-game
 
-##Trivia Game in React Native and Redux##
+## Trivia Game in React Native and Redux
 
-#####Packages used:#####
+##### Packages used:
 * [@remobile/react-native-toast](https://github.com/remobile/react-native-toast)
 * [axios](https://github.com/axios/axios)
 * [he](https://github.com/mathiasbynens/he)
